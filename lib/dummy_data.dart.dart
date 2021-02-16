@@ -70,12 +70,12 @@ const DUMMY_MEALS = const [
         'https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Spaghetti_Bolognese_mit_Parmesan_oder_Grana_Padano.jpg/800px-Spaghetti_Bolognese_mit_Parmesan_oder_Grana_Padano.jpg',
     duration: 20,
     ingredients: [
-      '4 Tomatoes',
-      '1 Tablespoon of Olive Oil',
-      '1 Onion',
-      '250g Spaghetti',
-      'Spices',
-      'Cheese (optional)'
+      '4 Tomatoes.',
+      '1 Tablespoon of Olive Oil.',
+      '1 Onion.',
+      '250g Spaghetti.',
+      'Spices.',
+      'Cheese (optional).'
     ],
     steps: [
       'Cut the tomatoes and the onion into small pieces.',
